@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/becfde01-cca1-4c24-b453-75108560da08
 # DEPNotify-to-Baseline
 
 This guide will detail how to utilize [Baseline](https://github.com/SecondSonConsulting/Baseline) to provide the same functionality the Jamf [DEPNotify-Starter](https://github.com/jamf/DEPNotify-Starter) script provides. It is assumed you already have a working DEPNotify-Starter workflow currently in use with automated device enrollment. We'll utilize the existing Jamf Pro policies for the Baseline workflow.
@@ -11,3 +9,4 @@ You need to decide what kind of workflow you want to use for your Baseline deplo
 Please checkout the [Wiki](https://github.com/mpermann/DEPNotify-to-Baseline/wiki) for specifics on how to utilize this project.
 
 Uploading Baseline Zero Touch Provisioning.mp4…
+https://github.com/user-attachments/assets/becfde01-cca1-4c24-b453-75108560da08
