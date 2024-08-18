@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/becfde01-cca1-4c24-b453-75108560da08
 # DEPNotify-to-Baseline
 
 This guide will detail how to utilize [Baseline](https://github.com/SecondSonConsulting/Baseline) to provide the same functionality the Jamf [DEPNotify-Starter](https://github.com/jamf/DEPNotify-Starter) script provides. It is assumed you already have a working DEPNotify-Starter workflow currently in use with automated device enrollment. We'll utilize the existing Jamf Pro policies for the Baseline workflow.
@@ -7,3 +9,5 @@ You need to decide what kind of workflow you want to use for your Baseline deplo
 2.	Baseline configuration delivered using a configuration profile and the standard Baseline signed and notarized installer package deployed in a PreStage Enrollment. The branding logos, application and policy icons, end user license agreement file and registration script are deployed with an installer package delivered using a script and installer package both hosted on an https server. No Apple Developer ID Installer signing certificate needed for this workflow.
 
 Please checkout the [Wiki](https://github.com/mpermann/DEPNotify-to-Baseline/wiki) for specifics on how to utilize this project.
+
+Uploading Baseline Zero Touch Provisioning.mp4…
