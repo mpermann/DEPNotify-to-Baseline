@@ -7,3 +7,5 @@ You need to decide what kind of workflow you want to use for your Baseline deplo
 2.	Baseline configuration delivered using a configuration profile and the standard Baseline signed and notarized installer package deployed in a PreStage Enrollment. The branding logos, application and policy icons, end user license agreement file and registration script are deployed with an installer package delivered using a script and installer package both hosted on an https server. No Apple Developer ID Installer signing certificate needed for this workflow.
 
 Please checkout the [Wiki](https://github.com/mpermann/DEPNotify-to-Baseline/wiki) for specifics on how to utilize this project.
+
+https://github.com/user-attachments/assets/99391e03-0b3b-4508-bc96-86c64854df3e
