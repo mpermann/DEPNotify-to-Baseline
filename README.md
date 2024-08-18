@@ -8,5 +8,4 @@ You need to decide what kind of workflow you want to use for your Baseline deplo
 
 Please checkout the [Wiki](https://github.com/mpermann/DEPNotify-to-Baseline/wiki) for specifics on how to utilize this project.
 
-Uploading Baseline Zero Touch Provisioning.mp4…
-https://github.com/user-attachments/assets/becfde01-cca1-4c24-b453-75108560da08
+https://github.com/user-attachments/assets/6cf3d39e-f7de-4432-b37d-c75ae000e12d
