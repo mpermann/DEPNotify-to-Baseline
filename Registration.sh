@@ -29,7 +29,9 @@ plistBuddyPath="/usr/libexec/PlistBuddy"
 
 # Temporary Dialog Command files
 powerCheckCommandFile=$(mktemp /var/tmp/powercheck.XXXXXX)
+/bin/chmod 666 "$powerCheckCommandFile"
 registrationCommandFile=$(mktemp /var/tmp/registration.XXXXXX)
+/bin/chmod 666 "$registrationCommandFile"
 
 # Provision report plist location
 provisionReport="/Users/Shared/BaselineConfigData.plist"
